@@ -1,0 +1,11 @@
+name,minInterval,maxInterval,meanI,modeI,stdI,CVI,skewI,kurtI
+x1.16xlarge_SUSE Linux (Amazon VPC)_us-east-1c,['1.00', '71005.00', '689.86', '2.00', '1933.62', '2.80', '11.93', '251.65']
+r3.8xlarge_SUSE Linux (Amazon VPC)_us-east-1c,['1.00', '41228.00', '54.00', '2.00', '113.30', '2.10', '123.97', '35925.60']
+m2.4xlarge_SUSE Linux (Amazon VPC)_us-east-1c,['1.00', '77855.00', '118.25', '60.00', '287.35', '2.43', '105.43', '23384.51']
+cr1.8xlarge_SUSE Linux (Amazon VPC)_us-east-1c,['1.00', '86424.00', '856.10', '60.00', '2075.42', '2.42', '12.25', '305.27']
+r3.4xlarge_SUSE Linux (Amazon VPC)_us-east-1c,['1.00', '20581.00', '58.25', '2.00', '107.49', '1.85', '34.76', '3810.27']
+x1.32xlarge_SUSE Linux (Amazon VPC)_us-east-1c,['1.00', '86435.00', '1497.48', '60.00', '3087.19', '2.06', '7.33', '115.46']
+m2.2xlarge_SUSE Linux (Amazon VPC)_us-east-1c,['1.00', '75616.00', '346.63', '18.00', '1132.18', '3.27', '20.09', '758.47']
+m2.xlarge_SUSE Linux (Amazon VPC)_us-east-1c,['1.00', '86433.00', '365.39', '60.00', '1414.50', '3.87', '23.77', '958.44']
+r3.xlarge_SUSE Linux (Amazon VPC)_us-east-1c,['1.00', '19712.00', '53.51', '2.00', '82.79', '1.55', '39.80', '7119.22']
+r3.large_SUSE Linux (Amazon VPC)_us-east-1c,['1.00', '86454.00', '239.25', '18.00', '1547.19', '6.47', '22.60', '747.43']
